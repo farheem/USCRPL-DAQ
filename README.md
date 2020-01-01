@@ -1,2 +1,2 @@
 # USCRPL-DAQ
-This repository will be used to track edits to the static fire.vi labview code
+This repository will be used to store labview code VI files used for data acquisition for USCRPL's static fires and any supporting files
